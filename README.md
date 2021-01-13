@@ -7,5 +7,6 @@ cd Fileganizer
 python3 fileganizer.py
 ```
 # Note:
-Some video formats (like .wm and .wmv ) could be moved to Audio folder while organizing.
+1. Some video formats (like .wm and .wmv ) could be moved to Audio folder while organizing.
+2. Only for linux at the moment
 
